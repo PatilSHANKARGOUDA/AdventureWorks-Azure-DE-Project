@@ -40,3 +40,10 @@ The pipeline leverages the following technologies:
 * Azure Synapse Analytics
 * Python
 
+**Project snaps:**
+![image](https://github.com/user-attachments/assets/8e33bbba-2d98-48c6-aa49-8165b2a6c076)
+![image](https://github.com/user-attachments/assets/53393513-6535-4f8a-bb8a-2d04b4de2efb)
+![image](https://github.com/user-attachments/assets/aa9797c7-322c-43d2-9458-b6eab873cf12)
+![image](https://github.com/user-attachments/assets/9676396c-fbc6-4b1d-80a7-f9a895388d97)
+![image](https://github.com/user-attachments/assets/a738e342-a51a-4765-b973-a0a6a21a0d45)
+![image](https://github.com/user-attachments/assets/a675558d-cf1d-40fe-982d-4cce5d885d05)
