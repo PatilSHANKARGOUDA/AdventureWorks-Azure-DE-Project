@@ -29,3 +29,14 @@ Transformed data is stored in Parquet format in Data Lake Gen2.
 
 Transformed data is optimized for serving using Delta Lake features such as ACID transactions and schema evolution.
 Data is stored in Delta Lake format in Data Lake Gen2 for high-performance analysis and reporting.
+
+**Key Technologies**
+The pipeline leverages the following technologies:
+
+* Azure Databricks
+* Delta Lake
+* Azure Data Lake Gen2
+* Azure Data Factory
+* Azure Synapse Analytics
+* Python
+
